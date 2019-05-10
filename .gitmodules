@@ -1,0 +1,3 @@
+[submodule "switch-l4t-ubuntu-scripts"]
+	path = switch-l4t-ubuntu-scripts
+	url = https://gitlab.com/switchroot/switch-l4t-ubuntu-scripts.git
